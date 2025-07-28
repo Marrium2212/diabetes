@@ -1,0 +1,30 @@
+2025-07-28 10:44:25,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 10:44:25,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 10:44:25,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 10:44:25,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 10:44:28,487:INFO:Initializing load_model()
+2025-07-28 10:44:28,487:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 11:38:50,030:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 11:38:50,030:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 11:38:50,030:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 11:38:50,030:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 11:38:51,876:INFO:Initializing load_model()
+2025-07-28 11:38:51,876:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 13:43:31,377:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 13:43:31,377:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 13:43:31,377:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 13:43:31,377:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 13:43:33,885:INFO:Initializing load_model()
+2025-07-28 13:43:33,885:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
